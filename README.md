@@ -22,6 +22,9 @@ Khi người dùng nhấn **Scan New** trên Home Screen, ứng dụng sẽ **ch
 
 ---
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e9324d14-9c58-429f-a33d-aac1a4061380" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5869ebe6-1bbe-4e50-aecb-4348a88990ea" />
+
+
 
 
 
